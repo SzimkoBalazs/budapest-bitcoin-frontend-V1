@@ -1,5 +1,5 @@
 import React from "react";
-import { bitcoinShadow, leftGradient } from "../../assets";
+import { bitcoinShadow } from "../../assets";
 import CouponForm from "../CouponForm";
 import KeyNumbersBar from "../KeyNumbersBar";
 
