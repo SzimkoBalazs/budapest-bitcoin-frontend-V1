@@ -17,7 +17,7 @@ const HeroSection = () => {
         <h1 className="text-[#FFF] text-center text-[80px] font-bold tracking-[3.25px]">
           BITCOIN BUDAPEST
         </h1>
-        <div className="flex w-1/3 border-red-500 border-2 items-center mt-[24px] justify-between">
+        <div className="flex w-1/3 items-center mt-[24px] justify-between">
           <div className="w-[93px] h-[4px] shrink-0 bg-custom-gradient" />
           <h2 className="text-[#FFF] text-center text-[40px] leading-[44px]">
             Coming soon!
