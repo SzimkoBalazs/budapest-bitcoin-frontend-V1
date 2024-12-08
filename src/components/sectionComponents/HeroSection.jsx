@@ -1,5 +1,5 @@
 import React from "react";
-import { bitcoinShadow } from "../../assets";
+import { bitcoinShadow, leftGradient } from "../../assets";
 import CouponForm from "../CouponForm";
 import KeyNumbersBar from "../KeyNumbersBar";
 
@@ -32,7 +32,7 @@ const HeroSection = () => {
             <div className="w-10 md:w-[88px] h-[4px] shrink-0 bg-custom-gradient" />
           </div>
           {/* Email paragraph */}
-          <p className="text-white-80 text-[16px] sm:text-[20px] font-[300] leading-[150%] text-center shrink-0 md:w-2/3 lg:w-1/2 w-full px-0 md:px-10 2xl:mt-2">
+          <p className="text-white-80 text-[16px] sm:text-[18px] font-[300] leading-[150%] text-center shrink-0 md:w-2/3 lg:w-1/2 w-full px-0 md:px-10 2xl:mt-2">
             Stay ahead with Bitcoin Budapest! Sign up with your email for
             updates and enjoy a 15% discount on tickets.
           </p>

@@ -2,8 +2,8 @@ import React from "react";
 
 const KeyNumbersBar = () => {
   return (
-    <div className="w-full bg-custom-bg border-t-2 border-b-2 border-custom-border backdrop-blur-2px px-6">
-      <div className="w-full mx-auto flex flex-col gap-y-6 md:gap-y-0 md:flex-row justify-center items-center py-6 md:py-10">
+    <div className="w-full bg-custom-bg border-t-2 border-b-2 border-custom-border backdrop-blur-2px">
+      <div className="w-full mx-auto flex flex-col gap-y-6 md:gap-y-0 md:flex-row justify-center items-center py-6 px-6 md:py-10">
         {/* Key Number Item */}
         {/* GROUP 1 */}
         <div className="flex flex-row justify-center md:justify-between items-center w-full">
