@@ -1,3 +1,5 @@
-import heroBtcImage from "./hero-btc.png";
+import bitcoinShadow from "./bitcoinShadow.png";
+import favIcon from "./favicon.svg";
 
-export { heroBtcImage };
+export { bitcoinShadow };
+export { favIcon };
